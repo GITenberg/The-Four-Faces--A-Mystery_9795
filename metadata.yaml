@@ -1,0 +1,34 @@
+_repo: The-Four-Faces--A-Mystery_9795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: Cover; Title Page; Copyright; CONTENTS; CHAPTER I; CHAPTER II; CHAPTER
+  III; CHAPTER IV; CHAPTER V; CHAPTER VI; CHAPTER VII; CHAPTER VIII; CHAPTER IX; CHAPTER
+  X; CHAPTER XI; CHAPTER XII; CHAPTER XIII; CHAPTER XIV; CHAPTER XV; CHAPTER XVI;
+  CHAPTER XVII; CHAPTER XVIII; CHAPTER XIX; CHAPTER XX; CHAPTER XXI; CHAPTER XXII;
+  CHAPTER XXIII; CHAPTER XXIV; CHAPTER XXV; CHAPTER XXVI; CHAPTER XXVII; CHAPTER XXVIII;
+  CONCLUSION
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: 'The Four Faces: A Mystery'
+url: http://www.gutenberg.org/ebooks/9795
