@@ -1,5 +1,8 @@
 _repo: The-Four-Faces--A-Mystery_9795
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Queux, William
@@ -17,6 +20,8 @@ description: Cover; Title Page; Copyright; CONTENTS; CHAPTER I; CHAPTER II; CHAP
   CHAPTER XVII; CHAPTER XVIII; CHAPTER XIX; CHAPTER XX; CHAPTER XXI; CHAPTER XXII;
   CHAPTER XXIII; CHAPTER XXIV; CHAPTER XXV; CHAPTER XXVI; CHAPTER XXVII; CHAPTER XXVIII;
   CONCLUSION
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9795#The-Four-Faces--A-Mystery
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
